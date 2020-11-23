@@ -1,0 +1,7 @@
+Last_name (Usado generalmente para nombrar variables)
+
+LastName (Usado para nombrar clases) =>"Camel Case"
+
+lastname (Usado para nombrar los paquetes)
+
+LASTNAME(Usado para definir las constantes)
