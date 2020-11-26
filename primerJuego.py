@@ -15,7 +15,7 @@ while intentos_usuario < max_intentos:
         print("================================")
         print("FELICIDADES ADIVINASTE EL NÚMERO")
         print("================================")
-        break
+        break # termina el proceso
     elif intentos_usuario < max_intentos - 1:
         print(">>>Estas serca vamos tu puedes!!")
 
